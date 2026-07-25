@@ -144,7 +144,7 @@
     letter-spacing: -0.02em;
   }
 
-  .page-desc { font-size: 13.5px; color: var(--text-soft); max-width: 560px; font-weight: 300; }
+  .page-desc { font-size: 13.5px; color: var(--text-soft); max-width: 760px; font-weight: 300; }
 
   /* ── HERO ─────────────────────────────────────────── */
   .hero h1 {
@@ -343,6 +343,9 @@
     grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
     gap: 16px;
   }
+
+  /* "What I solve": 4 cards → clean 2×2 (avoids the 3+1 orphan) */
+  #solve .cards-grid { grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); }
 
   .system-card {
     background: var(--white);
