@@ -1,6 +1,6 @@
 # Andrea Saravia Sauter — SARAUTER
 
-> Senior B2B marketing leader in telecom and digital infrastructure. 20+ years across LATAM and Europe building brands, pipeline and flagship events — now with AI systems on top. Based in Madrid, Spain.
+> Senior B2B marketing leader in telecom and digital infrastructure — 20+ years building brands, pipeline, and flagship events across LATAM and Europe, now backed by AI systems. Based in Madrid, Spain.
 
 Andrea Saravia Sauter is a Marketing Director with 8 years leading brand development for Ufinet (2014–2022), a digital infrastructure company operating in 17 countries — backed by a written reference from Ufinet's CEO. Since 2022 she has worked as a marketing consultant and project lead for Todofibraoptica, Gold Data, and Avenza Marketing, and currently advises Ufinet on brand positioning. She holds a Master in Digital Marketing (ESIC Business & Marketing School, Madrid) and integrates AI systems (Claude/Anthropic) into marketing execution as repeatable workflows.
 
@@ -11,7 +11,7 @@ Andrea Saravia Sauter is a Marketing Director with 8 years leading brand develop
 - [RADAR GEO Toolkit](https://sarauter.com/RADAR-GEO-tool/): tool to audit B2B content for findability by generative search engines
 - [SARAUTER Prompt Toolkit](https://sarauter.com/Prompt-Toolkit/): proprietary prompt and workflow library for brand, content and strategy production
 - [Productivity System](https://sarauter.com/herramienta-de-productividad/): system for organizing priorities and execution
-- [Commercial OS, Vela](https://sarauter.com/Vela-Demo/): commercial operating model combining strategy, AI-enabled workflows and execution
+- [Vela, Commercial OS](https://sarauter.com/Vela-Demo/): commercial operating model combining strategy, AI-enabled workflows, and execution
 - [Rebrand, End to End](https://sarauter.com/Branding-successful-case/): full brand rebrand delivered end-to-end by one person in nine weeks
 
 ## Contact
