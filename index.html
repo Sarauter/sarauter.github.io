@@ -19,6 +19,10 @@
 <link rel="alternate" hreflang="es" href="https://sarauter.com/es/">
 <link rel="alternate" hreflang="x-default" href="https://sarauter.com/">
 
+<!-- FECHA-ACTUALIZACION: cambiar en los 3 sitios de este archivo (head, JSON-LD y
+     footer), en el otro idioma, y en el <lastmod> de sitemap.xml -->
+<meta property="article:modified_time" content="2026-08-24">
+
 <!-- Previsualización al compartir el enlace (LinkedIn, WhatsApp, Slack, email) -->
 <meta property="og:type" content="profile">
 <meta property="og:url" content="https://sarauter.com/">
@@ -504,6 +508,21 @@
   .banner .btn-primary:hover { background: var(--lilac-100); }
 
   /* ── FOOTER ───────────────────────────────────────── */
+  /* ── FAQ ──────────────────────────────────────────── */
+  .faq-list { display: flex; flex-direction: column; gap: 16px; }
+  .faq-item h3 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13.5px;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.45;
+    margin-bottom: 4px;
+  }
+  .faq-item p { font-size: 12.5px; color: var(--text-soft); line-height: 1.6; font-weight: 300; }
+  .faq-item p a { color: var(--text); text-decoration: underline; text-underline-offset: 2px; }
+  .faq-divider { height: 1px; background: var(--border); }
+  .footer-updated { margin-top: 6px; opacity: 0.8; }
+
   footer {
     text-align: center;
     font-size: 11.5px;
@@ -526,6 +545,7 @@
 {
   "@context": "https://schema.org",
   "@type": "ProfilePage",
+  "dateModified": "2026-08-24",
   "mainEntity": {
     "@type": "Person",
     "name": "Andrea Saravia Sauter",
@@ -553,6 +573,63 @@
   }
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "en",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is Andrea Saravia Sauter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A marketing strategist with more than 20 years in complex B2B sales, based in Madrid and working across LATAM and Europe. She spent eight years as Marketing Director at Ufinet, building the brand across the 17 countries where it operates, and since 2022 has led marketing projects for Todofibraoptica, Gold Data and Avenza Marketing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What kind of marketing does she specialize in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Complex B2B sales: the product is technical, the sales cycle runs for months, and the buyer is a committee rather than one person. She learned it in telecom and digital infrastructure, and the same pattern carries over to any complex sale — positioning, go-to-market, international events and AI-enabled marketing systems."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What results has she delivered?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "$720K closed by reactivating two stalled hyperscaler accounts, 3× pipeline growth on strategic accounts, a marketing department built from scratch, an international event with speakers from 33 companies, and a full rebrand delivered end to end by one person in nine weeks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is she available for hire?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. She is open to a Director-level in-house marketing role and to the right consulting partnership. She is also focused on automation and AI workflows — turning marketing processes into systems that run on their own, rather than one-off experiments. The fastest way to reach her is <a href=\"mailto:andrea@sarauter.com\">andrea@sarauter.com</a>."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What AI systems has she built?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Four working tools, designed and built by her: RADAR (a GEO/AEO content auditor), the SARAUTER Prompt Toolkit, Vela (a commercial operating system) and a productivity system. All four are live and linked from <a href=\"https://sarauter.com/#systems\">the AI systems section</a> of this page. She holds Anthropic certifications in Claude, Claude Code, AI Fluency and Agent Skills."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does she work across LATAM and Europe, in Spanish and English?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — both languages, both regions. Her career spans Costa Rica, LATAM and Spain, and she builds for the difference on purpose: what works in Madrid doesn’t always work in Bogotá."
+      }
+    }
+  ]
+}
+</script>
 </head>
 <body>
 
@@ -568,7 +645,7 @@
   </div>
 </div>
 
-<div class="main">
+<main class="main">
 
   <!-- HERO -->
   <section class="hero">
@@ -755,7 +832,7 @@
           <div class="tip-num">02</div>
           <div>
             <div class="tip-title" data-i18n="built2-title">They&rsquo;re working tools, not mockups.</div>
-            <div class="tip-desc" data-i18n="built2-desc">RADAR runs a live crawler that reads robots.txt, llms.txt, and sitemap, and scores five dimensions citing the official Google, OpenAI, Anthropic, and Perplexity documentation.</div>
+            <div class="tip-desc" data-i18n="built2-desc">RADAR runs a live crawler that reads robots.txt, llms.txt, and sitemap, and scores 12 signals in three blocks, citing the official Google, OpenAI, Anthropic, and Perplexity documentation.</div>
           </div>
         </div>
         <div class="tip-divider"></div>
@@ -827,6 +904,45 @@
     </div>
   </section>
 
+  <!-- FAQ -->
+  <section id="faq">
+    <span class="eyebrow" data-i18n="faq-eyebrow">Frequently asked</span>
+    <div class="info-card">
+      <h2 class="info-card-title" data-i18n="faq-title">The questions that come up first</h2>
+      <div class="faq-list">
+        <div class="faq-item">
+          <h3 data-i18n="faq-q1">Who is Andrea Saravia Sauter?</h3>
+          <p data-i18n="faq-a1">A marketing strategist with more than 20 years in complex B2B sales, based in Madrid and working across LATAM and Europe. She spent eight years as Marketing Director at Ufinet, building the brand across the 17 countries where it operates, and since 2022 has led marketing projects for Todofibraoptica, Gold Data and Avenza Marketing.</p>
+        </div>
+        <div class="faq-divider"></div>
+        <div class="faq-item">
+          <h3 data-i18n="faq-q2">What kind of marketing does she specialize in?</h3>
+          <p data-i18n="faq-a2">Complex B2B sales: the product is technical, the sales cycle runs for months, and the buyer is a committee rather than one person. She learned it in telecom and digital infrastructure, and the same pattern carries over to any complex sale — positioning, go-to-market, international events and AI-enabled marketing systems.</p>
+        </div>
+        <div class="faq-divider"></div>
+        <div class="faq-item">
+          <h3 data-i18n="faq-q3">What results has she delivered?</h3>
+          <p data-i18n="faq-a3">$720K closed by reactivating two stalled hyperscaler accounts, 3× pipeline growth on strategic accounts, a marketing department built from scratch, an international event with speakers from 33 companies, and a full rebrand delivered end to end by one person in nine weeks.</p>
+        </div>
+        <div class="faq-divider"></div>
+        <div class="faq-item">
+          <h3 data-i18n="faq-q4">Is she available for hire?</h3>
+          <p data-i18n="faq-a4">Yes. She is open to a Director-level in-house marketing role and to the right consulting partnership. She is also focused on automation and AI workflows — turning marketing processes into systems that run on their own, rather than one-off experiments. The fastest way to reach her is <a href="mailto:andrea@sarauter.com">andrea@sarauter.com</a>.</p>
+        </div>
+        <div class="faq-divider"></div>
+        <div class="faq-item">
+          <h3 data-i18n="faq-q5">What AI systems has she built?</h3>
+          <p data-i18n="faq-a5">Four working tools, designed and built by her: RADAR (a GEO/AEO content auditor), the SARAUTER Prompt Toolkit, Vela (a commercial operating system) and a productivity system. All four are live and linked from <a href="#systems">the AI systems section</a> of this page. She holds Anthropic certifications in Claude, Claude Code, AI Fluency and Agent Skills.</p>
+        </div>
+        <div class="faq-divider"></div>
+        <div class="faq-item">
+          <h3 data-i18n="faq-q6">Does she work across LATAM and Europe, in Spanish and English?</h3>
+          <p data-i18n="faq-a6">Yes — both languages, both regions. Her career spans Costa Rica, LATAM and Spain, and she builds for the difference on purpose: what works in Madrid doesn’t always work in Bogotá.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- CONTACT -->
   <section id="contact">
     <div class="banner">
@@ -840,13 +956,33 @@
     </div>
   </section>
 
-  <footer data-i18n="footer">SARAUTER Marketing — Madrid · LATAM ⇄ Europe · #MomentoClick</footer>
+  <footer>
+    <div data-i18n="footer">SARAUTER Marketing — Madrid · LATAM ⇄ Europe · #MomentoClick</div>
+    <!-- FECHA-ACTUALIZACION: cambiar en los 3 sitios de este archivo (head, JSON-LD y
+         footer), en el otro idioma, y en el <lastmod> de sitemap.xml -->
+    <p class="footer-updated" data-i18n="footer-updated">Last updated: <time datetime="2026-08-24">August 24, 2026</time></p>
+  </footer>
 
-</div>
+</main>
 
 <script>
   // Spanish overrides. English lives in the HTML above; only ES is defined here.
   var I18N_ES = {
+    "faq-eyebrow": "Preguntas frecuentes",
+    "faq-title": "Las preguntas que salen primero",
+    "faq-q1": "¿Quién es Andrea Saravia Sauter?",
+    "faq-a1": "Estratega de marketing con más de 20 años en ventas B2B complejas, con base en Madrid y trabajando entre LATAM y Europa. Fue Directora de Marketing en Ufinet durante ocho años, construyendo la marca en los 17 países donde opera, y desde 2022 lidera proyectos de marketing para Todofibraoptica, Gold Data y Avenza Marketing.",
+    "faq-q2": "¿En qué tipo de marketing se especializa?",
+    "faq-a2": "En ventas B2B complejas: el producto es técnico, el ciclo de venta dura meses y quien compra es un comité, no una persona. Lo aprendió en telecomunicaciones e infraestructura digital, y el mismo patrón se traslada a cualquier venta compleja — posicionamiento, go-to-market, eventos internacionales y sistemas de marketing con IA.",
+    "faq-q3": "¿Qué resultados concretos ha entregado?",
+    "faq-a3": "$720K cerrados reactivando dos cuentas hyperscaler estancadas, 3× de crecimiento del pipeline en cuentas estratégicas, un departamento de marketing construido desde cero, un evento internacional con ponentes de 33 empresas, y un rebrand completo entregado de principio a fin por una sola persona en nueve semanas.",
+    "faq-q4": "¿Está disponible para contratación?",
+    "faq-a4": "Sí. Está abierta a un puesto in-house de marketing a nivel Director y a la colaboración de consultoría adecuada. También está enfocada en automatizaciones y flujos de trabajo con IA — convertir los procesos de marketing en sistemas que se ejecutan solos, no en experimentos sueltos. La forma más rápida de contactarla es <a href=\"mailto:andrea@sarauter.com\">andrea@sarauter.com</a>.",
+    "faq-q5": "¿Qué sistemas de IA ha construido?",
+    "faq-a5": "Cuatro herramientas funcionando, diseñadas y construidas por ella: RADAR (auditor de contenido GEO/AEO), el SARAUTER Prompt Toolkit, Vela (sistema operativo comercial) y un sistema de productividad. Las cuatro están abiertas y enlazadas en <a href=\"#systems\">la sección de sistemas de IA</a> de esta misma página. Tiene certificaciones de Anthropic en Claude, Claude Code, AI Fluency y Agent Skills.",
+    "faq-q6": "¿Trabaja en LATAM y en Europa, en español e inglés?",
+    "faq-a6": "Sí, en ambos idiomas y ambas regiones. Su carrera abarca Costa Rica, LATAM y España, y construye para esa diferencia a propósito: lo que funciona en Madrid no siempre funciona en Bogotá.",
+    "footer-updated": "Última actualización: <time datetime=\"2026-08-24\">24 de agosto de 2026</time>",
     "topbar-sub": "Marketing &amp; Sistemas de IA",
     "topbar-pill": "Madrid · LATAM ⇄ Europa",
     "hero-eyebrow": "Andrea Saravia Sauter &middot; Directora de Marketing",
@@ -923,7 +1059,7 @@
     "built1-title": "Aprendí construyendo, no mirando.",
     "built1-desc": "Certificaciones de Anthropic en Claude, Claude Code, AI Fluency y Agent Skills — y después una herramienta funcionando por cada cosa que quería entender de verdad.",
     "built2-title": "Son herramientas que funcionan, no maquetas.",
-    "built2-desc": "RADAR ejecuta un crawler real que lee robots.txt, llms.txt y sitemap, y puntúa cinco dimensiones citando la documentación oficial de Google, OpenAI, Anthropic y Perplexity.",
+    "built2-desc": "RADAR ejecuta un crawler real que lee robots.txt, llms.txt y sitemap, y puntúa 12 señales en tres bloques, citando la documentación oficial de Google, OpenAI, Anthropic y Perplexity.",
     "built3-title": "Con el mismo estándar que el trabajo de cliente.",
     "built3-desc": "Bilingüe, autocontenido, sin dependencias que se rompan — porque un sistema que nadie puede mantener no es un sistema, es una demo.",
     "approach-eyebrow": "Cómo pienso",
