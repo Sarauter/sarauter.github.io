@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sarauter.com/</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-24</lastmod>
   </url>
   <url>
     <loc>https://sarauter.com/es/</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-24</lastmod>
   </url>
   <url>
     <loc>https://sarauter.com/CV-Andrea-Saravia/</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://sarauter.com/CV-Andrea-Saravia/es/</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-24</lastmod>
   </url>
   <url>
     <loc>https://sarauter.com/RADAR-GEO-tool/</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://sarauter.com/Prompt-Toolkit/</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-08-24</lastmod>
   </url>
   <url>
     <loc>https://sarauter.com/Branding-successful-case/</loc>
@@ -39,5 +39,9 @@
   <url>
     <loc>https://sarauter.com/Vela-Demo/</loc>
     <lastmod>2026-07-28</lastmod>
+  </url>
+  <url>
+    <loc>https://sarauter.com/ia-gobernanza-empresarial/</loc>
+    <lastmod>2026-08-13</lastmod>
   </url>
 </urlset>

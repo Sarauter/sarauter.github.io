@@ -9,10 +9,12 @@ Andrea Saravia Sauter is a Marketing Director with 8 years leading brand develop
 - [Home](https://sarauter.com/): profile, track record with attributed results, proprietary AI-marketing systems, testimonials
 - [CV](https://sarauter.com/CV-Andrea-Saravia/): full professional experience, education, certifications
 - [RADAR GEO Toolkit](https://sarauter.com/RADAR-GEO-tool/): tool to audit B2B content for findability by generative search engines
-- [SARAUTER Prompt Toolkit](https://sarauter.com/Prompt-Toolkit/): proprietary prompt and workflow library for brand, content and strategy production
+- [SARAUTER Prompt Toolkit](https://sarauter.com/Prompt-Toolkit/): AI working system for B2B teams — a company profile filled in once and reused across every prompt, chained multi-step flows, and a quality checklist plus review prompt on every output
 - [Productivity System](https://sarauter.com/herramienta-de-productividad/): system for organizing priorities and execution
 - [Vela, Commercial OS](https://sarauter.com/Vela-Demo/): commercial operating model combining strategy, AI-enabled workflows, and execution
 - [Rebrand, End to End](https://sarauter.com/Branding-successful-case/): full brand rebrand delivered end-to-end by one person in nine weeks
+- [AI Governance](https://sarauter.com/ia-gobernanza-empresarial/): answers seven questions about a company's situation and returns a phased roadmap — external agent on a business plan, internal app on an enterprise API, or an own model — with the minimum controls and who signs them off
+- [Web Content Intake Template](https://sarauter.com/plantilla-contenido-web/): intake form for web content in brand projects — saves, validates and exports the copy for each section
 
 ## Contact
 
