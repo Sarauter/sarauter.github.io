@@ -1,20 +1,18 @@
 # Andrea Saravia Sauter — SARAUTER
 
-> Marketing Director for complex B2B sales — 20+ years building brands, pipeline, and flagship events across LATAM and Europe, now running on AI systems she designed and built herself. Based in Madrid, Spain.
+> Marketing strategist for complex products · AI visibility (SEO, AEO, GEO). She turns complex technology into a clear commercial message and makes sure it shows up where buyers now search: on Google and in ChatGPT, Perplexity and Gemini. 20+ years across Latin America and Europe. Based in Madrid, Spain.
 
-Andrea Saravia Sauter is a Marketing Director with 8 years leading brand development for Ufinet (2014–2022), a digital infrastructure company operating in 17 countries — backed by a written reference from Ufinet's CEO. Since 2022 she has worked as a marketing consultant and project lead for Todofibraoptica, Gold Data, and Avenza Marketing, and currently advises Ufinet on brand positioning. She works in the kind of B2B where the product is technical, the sales cycle runs for months and the buyer is a committee — a pattern that transfers beyond telecom to any complex sale. She holds a Master in Digital Marketing (ESIC Business & Marketing School, Madrid), holds Anthropic certifications in Claude, Claude Code, AI Fluency and Agent Skills, and has designed and built four working marketing tools herself — integrating AI into marketing execution as repeatable systems, not one-off experiments.
+Andrea Saravia Sauter is a marketing strategist specializing in complex products: technology, software, infrastructure and AI that buyers don't understand at first glance. She works on message and positioning, go-to-market, international events and visibility in search and AI engines (SEO, AEO and GEO). She was Marketing Director at Ufinet for eight years (2014–2022), building the marketing department from scratch and the brand across 17 countries, backed by a written reference from Ufinet's CEO. Ufinet hired her again in December 2025 as a brand marketing consultant. She has also led marketing projects for Gold Data and Todofibraoptica. Her core experience is in telecom and digital infrastructure, and she applies the same method to any complex product. She holds a Master in Digital Marketing (ESIC Business & Marketing School, Madrid) and Anthropic certifications in Claude, Claude Code, AI Fluency, Agent Skills, Subagents and Claude Cowork, and has designed and built her own AI marketing tools.
 
 ## Key pages
 
-- [Home](https://sarauter.com/): profile, track record with attributed results, proprietary AI-marketing systems, testimonials
+- [Home](https://sarauter.com/): profile, measurable results, why AEO and GEO matter (industry data with sources), her own AI tools, brand case studies, FAQ
+- [Home in Spanish](https://sarauter.com/es/): Spanish version of the home page
 - [CV](https://sarauter.com/CV-Andrea-Saravia/): full professional experience, education, certifications
-- [RADAR GEO Toolkit](https://sarauter.com/RADAR-GEO-tool/): tool to audit B2B content for findability by generative search engines
-- [SARAUTER Prompt Toolkit](https://sarauter.com/Prompt-Toolkit/): AI working system for B2B teams — a company profile filled in once and reused across every prompt, chained multi-step flows, and a quality checklist plus review prompt on every output
-- [Productivity System](https://sarauter.com/herramienta-de-productividad/): system for organizing priorities and execution
-- [Vela, Commercial OS](https://sarauter.com/Vela-Demo/): commercial operating model combining strategy, AI-enabled workflows, and execution
-- [Rebrand, End to End](https://sarauter.com/Branding-successful-case/): full brand rebrand delivered end-to-end by one person in nine weeks
-- [AI Governance](https://sarauter.com/ia-gobernanza-empresarial/): answers seven questions about a company's situation and returns a phased roadmap — external agent on a business plan, internal app on an enterprise API, or an own model — with the minimum controls and who signs them off
-- [Web Content Intake Template](https://sarauter.com/plantilla-contenido-web/): intake form for web content in brand projects — saves, validates and exports the copy for each section
+- [RADAR GEO/AEO visibility auditor](https://sarauter.com/RADAR-GEO-tool/): checks whether any website, B2B or B2C, can be found and cited by ChatGPT, Perplexity, Gemini and Google — real crawl of robots.txt, llms.txt and sitemap, 12 signals in three blocks
+- [AI Governance](https://sarauter.com/ia-gobernanza-empresarial/): answers seven questions about a company's situation and returns a phased roadmap — external agent, internal app on an enterprise API, or its own model — with the minimum controls and who signs them off
+- [Vela, Commercial OS](https://sarauter.com/Vela-Demo/): commercial operating model combining strategy, AI workflows and execution
+- [A full rebrand in nine weeks](https://sarauter.com/Branding-successful-case/): case study — naming, visual identity, narrative, multi-country web architecture and an AI visibility layer, led by one person for a confidential B2B digital infrastructure client
 
 ## Contact
 
